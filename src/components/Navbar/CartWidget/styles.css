@@ -1,0 +1,10 @@
+.cart {
+    display: flex;
+    align-items: center;
+}
+
+.icono-carrito{
+    width: 30px;
+    height: 30px;
+
+}
