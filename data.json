@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nombre": "Nike Air Force",
+        "precio": 40000,
+        "img":
+          "./img/air force blanca.jfif",
+        "cantidad": 1
+      },
+      {
+        "id": 2,
+        "nombre": "Nike Air Max",
+        "precio": 63000,
+        "img":
+          "./img/amarigrises.jfif",
+        "cantidad": 1
+      },
+      {
+        "id": 3,
+        "nombre": "Nike Air Force Stage 1",
+        "precio": 59000,
+        "img":
+          "./img/air force stage 1.jfif",
+        "cantidad": 1
+      },
+      {
+        "id": 4,
+        "nombre": "Nike Air Max 90",
+        "precio": 37000,
+        "img":
+          "./img/air max 90.jpg",
+        "cantidad": 1
+      },
+      {
+        "id": 5,
+        "nombre": "Nike Air Max Axis",
+        "precio": 70000,
+        "img":
+          "./img/air max axis.jpg",
+        "cantidad": 1
+      },
+      {
+        "id": 6,
+        "nombre": "Nike Air Max Impact",
+        "precio": 42000,
+        "img":
+          "./img/air max impact.jfif",
+        "cantidad": 1
+      },
+      {
+        "id": 7,
+        "nombre": "Nike Air Max LTD3",
+        "precio": 67000,
+        "img":
+          "./img/airmax LTD3.jfif",
+        "cantidad": 1
+      },
+      {
+        "id": 8,
+        "nombre": "Nike Air Sport",
+        "precio": 90000,
+        "img":
+          "./img/azules.jfif",
+        "cantidad": 1
+      },
+      {
+        "id": 9,
+        "nombre": "Nike Air Jordan",
+        "precio": 140000,
+        "img":
+          "./img/air jordan.jfif",
+        "cantidad": 1
+      },
+      {
+        "id": 10,
+        "nombre": "Nike Air Jordan Retro",
+        "precio": 120000,
+        "img":
+          "./img/jordan retro.jpg",
+        "cantidad": 1
+      }
+    ]

@@ -1,0 +1,23 @@
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    
+    background-image: url(https://www.namesnack.com/images/namesnack-nombres-para-tiendas-de-zapatos-deportivos-6000x4000-20230523.jpeg?crop=16:9,smart&width=1200&dpr=2)
+}
+
+.banner-container {
+    text-align: center;
+    padding: 15% 0;
+}
+
+.banner h1 {
+    color: rgb(255, 215, 208);
+    text-shadow: 1px 1px 3px rgb(105, 95, 95);
+    font-size: 50px;
+}
+
+.banner p {
+    color: rgb(255, 215, 208);
+
+}
