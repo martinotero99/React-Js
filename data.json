@@ -1,10 +1,10 @@
-[
+ [
     {
         "id": 1,
         "nombre": "Nike Air Force",
         "precio": 40000,
         "img":
-          "./img/air force blanca.jfif",
+          "https://nikearprod.vtexassets.com/arquivos/ids/658672/DD9625_100_A_PREM.jpg?v=638221810286670000",
         "cantidad": 1
       },
       {
@@ -12,7 +12,7 @@
         "nombre": "Nike Air Max",
         "precio": 63000,
         "img":
-          "./img/amarigrises.jfif",
+          "./img/amarigrises.jfif", 
         "cantidad": 1
       },
       {
